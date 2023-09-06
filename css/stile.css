@@ -1,0 +1,41 @@
+body {
+    font-family: sans-serif;
+    background-color: white
+}
+
+img {
+    max-width: 100%; 
+}
+header {
+    max-width: 1500px;
+    background-color: white; 
+    text-align: center; 
+}
+header img {
+    max-width: 1500px;
+    background-color: white;
+    text-align: center;
+}
+
+    
+
+
+img {
+    max-width: 1500px;
+    background-color: white;
+    text-align: center;
+}
+main h2.altro-titolo {
+    color: white;
+    text-align: center;
+}
+<main>
+<footer>
+
+
+
+footer {
+    
+    background-color: white;
+    text-align:center;        
+}
